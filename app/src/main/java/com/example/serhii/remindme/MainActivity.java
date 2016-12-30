@@ -3,11 +3,11 @@ package com.example.serhii.remindme;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-public class MainActivity extends AppCompatActivity{\mbnbjn
+public class MainActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
-        super.onCreate(savedInstanceState);
+        super.onCreate(savedInstanceState);hmhg
         setContentView(R.layout.activity_main);
     }
 }
